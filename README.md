@@ -1133,7 +1133,7 @@ input:focus, textarea:focus {
         <div class="footer-box">
             <h4>Customer Support</h4>
             <p>Need help choosing a scent?</p>
-            <a href="https://wa.me/1234567890?text=Hi Aalam Perfumes, I need help with a fragrance!" class="whatsapp-btn" target="_blank">
+            <a href="https://wa.me/8891015965?text=Hi Aalam Perfumes, I need help with a fragrance!" class="whatsapp-btn" target="_blank">
                 <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>
@@ -1144,7 +1144,7 @@ input:focus, textarea:focus {
     </div>
 </footer>
 
-<a href="https://wa.me/1234567890" class="floating-wa" target="_blank">
+<a href="https://wa.me/8891015965" class="floating-wa" target="_blank">
     <i class="fab fa-whatsapp"></i>
 </a>
 
