@@ -928,9 +928,6 @@ input:focus, textarea:focus {
         display: none;
     }
 }
-
-
-
 </style>
 
 
@@ -1057,7 +1054,7 @@ input:focus, textarea:focus {
             </div>
             <div class="modal-details">
                 <h2 id="modal-title">Perfume Name</h2>
-                <p class="modal-price" id="modal-price">$0.00</p>
+                <p class="modal-price" id="modal-price">₹0.00</p>
                 <div class="scent-notes">
                     <p><strong>Top Notes:</strong> Bergamot, Pink Pepper</p>
                     <p><strong>Heart Notes:</strong> Jasmine, Turkish Rose</p>
@@ -1107,7 +1104,7 @@ input:focus, textarea:focus {
             <h3>Aalam Perfumes</h3>
             <p>Crafting memories through scents. Our perfumes are curated with the finest ingredients from around the world.</p>
             <div class="social-links">
-                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/aalam_perfumes.world?igsh=dGU2Nzg0em1qM2h5"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-pinterest"></i></a>
             </div>
@@ -1144,7 +1141,7 @@ input:focus, textarea:focus {
     </div>
 </footer>
 
-<a href="https://wa.me/8891015965" class="floating-wa" target="_blank">
+<a href="https://wa.me/+91 8891015965" class="floating-wa" target="_blank">
     <i class="fab fa-whatsapp"></i>
 </a>
 
